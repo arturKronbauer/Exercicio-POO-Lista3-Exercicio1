@@ -12,8 +12,6 @@ Email: alex@gmail.com
 
 Data de Nascimento (DD/MM/YYYY): 15/03/1985
 
-
-
 Informe os dados do Pedido:
 
 Status: PROCESSANDO
